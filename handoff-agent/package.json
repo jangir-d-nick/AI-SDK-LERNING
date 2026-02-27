@@ -1,0 +1,20 @@
+{
+  "name": "wather-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/google": "^3.0.26",
+    "ai": "^6.0.82",
+    "axios": "^1.13.5",
+    "dotenv": "^17.2.4",
+    "zod": "^4.3.6"
+  }
+}
